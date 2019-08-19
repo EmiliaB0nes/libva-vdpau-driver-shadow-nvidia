@@ -1,7 +1,7 @@
-# Maintainer: Alex Wilson <alex@cooperi.net>
+# Maintainer: Alex Wilson <alex@cooperi.net> - Luc Flemming
 
 pkgname=libva-vdpau-driver-shadow
-pkgver=0.7.4b
+pkgver=0.7.4c
 pkgrel=1
 pkgdesc="VDPAU backend for VA API. (special version for shadow-beta)"
 arch=('x86_64')
