@@ -1,7 +1,7 @@
 # Maintainer: Luc Flemming <luc dot flemming at protonmail dot ch>
 # Contributor: Alex Wilson <alex@cooperi.net> 
 
-pkgname=libva-vdpau-driver-shadow
+pkgname=libva-vdpau-driver-shadow-nvidia
 pkgver=0.7.4c
 pkgrel=1
 pkgdesc="VDPAU backend for VA API. (special version for shadow-beta)"
