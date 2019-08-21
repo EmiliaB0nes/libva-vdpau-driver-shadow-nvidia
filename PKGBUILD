@@ -1,4 +1,5 @@
-# Maintainer: Alex Wilson <alex@cooperi.net> - Luc Flemming
+# Maintainer: Luc Flemming <luc dot flemming at protonmail dot ch>
+# Contributor: Alex Wilson <alex@cooperi.net> 
 
 pkgname=libva-vdpau-driver-shadow
 pkgver=0.7.4c
