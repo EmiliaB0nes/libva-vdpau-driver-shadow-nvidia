@@ -15,8 +15,8 @@ makedepends=('mesa')
 replaces=('vdpau-video')
 provides=('libva-vdpau-driver')
 conflicts=('libva-vdpau-driver')
-source=($PWD"/libva-vdpau-driver-0.7.4b.tar.bz2")
-sha256sums=('7cbb509684387f872786e32057f72c3dbf8a7770722510572a6c377492bbe191')
+source=("https://github.com/Ludestru/libva-vdpau-driver/releases/download/v${pkgver}/libva-vdpau-driver-${pkgver}.tar.bz2")
+sha256sums=('19415b10d59bb6fbffacb9f1bc76eaf4367e97ad0877b52cdaaefd018b48dddb')
 
 prepare() {
   mkdir -p build
